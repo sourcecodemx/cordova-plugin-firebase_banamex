@@ -21,7 +21,7 @@ xmlns:android="http://schemas.android.com/apk/res/android">
 			</feature>
 		</config-file>
 		<config-file parent="/resources" target="res/values/strings.xml">
-			<string name="google_app_id">comex---conexion-movil</string>
+			<string name="google_app_id">769170136897</string>
 		</config-file>
 		<config-file parent="/resources" target="res/values/strings.xml">
 			<string name="google_api_key">AAAAsxYc30E:APA91bGHKa4yhRVX5OI02ltug-y679dMjg4RPwL7KDIia68tf6afUZp0ioWwXPF9w88rhuPYsKv02761FQFfcYQhvMKe0JHrvMyBENgbd1i4Rll7DqKtTWMwbd2twlagzlT18K7jVrJ48sdlU8dN8FXAHBSCBL_MYA</string>
