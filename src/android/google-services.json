@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "769170136897",
+    "firebase_url": "https://comex-conexion-movil.firebaseio.com",
+    "project_id": "comex---conexion-movil",
+    "storage_bucket": "comex---conexion-movil.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769170136897:android:a7e09745fdc21119",
+        "android_client_info": {
+          "package_name": "mx.sourcecode.comexmovil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769170136897-dditd0u1sjuc9useb2ri4ck4earoba89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn-aYxiDHIiqPbmtLQx2exqMwM6yYdePM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769170136897-dditd0u1sjuc9useb2ri4ck4earoba89.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "769170136897-ptauuakhnmu6trb51e16a35mtbr51sov.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "mx.sourcecode.comexmovil",
+                "app_store_id": "1161975398"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
