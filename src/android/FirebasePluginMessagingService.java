@@ -93,7 +93,7 @@ public class FirebasePluginMessagingService extends FirebaseMessagingService {
                     .setSound(defaultSoundUri)
                     .setContentIntent(pendingIntent);
 
-            int resID = getResources().getIdentifier("notification_icon", "drawable", getPackageName());
+            int resID = getResources().getIdentifier("icon", "drawable", getPackageName());
             if (resID != 0) {
                 notificationBuilder.setSmallIcon(resID);
             } else {
