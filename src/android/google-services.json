@@ -1,27 +1,27 @@
 {
   "project_info": {
-    "project_number": "769170136897",
-    "firebase_url": "https://comex-conexion-movil.firebaseio.com",
-    "project_id": "comex---conexion-movil",
-    "storage_bucket": "comex---conexion-movil.appspot.com"
+    "project_number": "346660109740",
+    "firebase_url": "https://lasus-2016.firebaseio.com",
+    "project_id": "lasus-2016",
+    "storage_bucket": "lasus-2016.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:769170136897:android:a7e09745fdc21119",
+        "mobilesdk_app_id": "1:346660109740:android:955171adfed271aa",
         "android_client_info": {
-          "package_name": "mx.sourcecode.comexmovil"
+          "package_name": "mx.sourcecode.lasus2016"
         }
       },
       "oauth_client": [
         {
-          "client_id": "769170136897-dditd0u1sjuc9useb2ri4ck4earoba89.apps.googleusercontent.com",
+          "client_id": "346660109740-f3ejouglj9tfcbc228pa9573pm5tlgmk.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBn-aYxiDHIiqPbmtLQx2exqMwM6yYdePM"
+          "current_key": "AIzaSyB8BNyicgfXoJRB3IN4HJTmQ2kLwOjtb00"
         }
       ],
       "services": {
@@ -29,21 +29,8 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 2,
-          "other_platform_oauth_client": [
-            {
-              "client_id": "769170136897-dditd0u1sjuc9useb2ri4ck4earoba89.apps.googleusercontent.com",
-              "client_type": 3
-            },
-            {
-              "client_id": "769170136897-ptauuakhnmu6trb51e16a35mtbr51sov.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "mx.sourcecode.comexmovil",
-                "app_store_id": "1161975398"
-              }
-            }
-          ]
+          "status": 1,
+          "other_platform_oauth_client": []
         },
         "ads_service": {
           "status": 2
