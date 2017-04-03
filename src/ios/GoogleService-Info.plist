@@ -7,36 +7,34 @@
 	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
 	<string>ca-app-pub-3940256099942544/4411468910</string>
 	<key>CLIENT_ID</key>
-	<string>769170136897-ptauuakhnmu6trb51e16a35mtbr51sov.apps.googleusercontent.com</string>
+	<string>346660109740-k6v5h9ejp1bd9irdvvvn6cg9r78jhr6h.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.769170136897-ptauuakhnmu6trb51e16a35mtbr51sov</string>
-	<key>ANDROID_CLIENT_ID</key>
-	<string>769170136897-sv9v6or0r2a9hnn9nfuu68e5h3uj5pkm.apps.googleusercontent.com</string>
+	<string>com.googleusercontent.apps.346660109740-k6v5h9ejp1bd9irdvvvn6cg9r78jhr6h</string>
 	<key>API_KEY</key>
-	<string>AIzaSyBkRrpkLfyex8ghZhIwsG41ZtLBzbYUymw</string>
+	<string>AIzaSyDALocH0Q7ifsfMVQU4e6e2YwNCmk4d8MU</string>
 	<key>GCM_SENDER_ID</key>
-	<string>769170136897</string>
+	<string>346660109740</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>mx.sourcecode.comexmovil</string>
+	<string>mx.sourcecode.lasus2016</string>
 	<key>PROJECT_ID</key>
-	<string>comex---conexion-movil</string>
+	<string>lasus-2016</string>
 	<key>STORAGE_BUCKET</key>
-	<string>comex---conexion-movil.appspot.com</string>
+	<string>lasus-2016.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<true/>
 	<key>IS_ANALYTICS_ENABLED</key>
 	<false/>
 	<key>IS_APPINVITE_ENABLED</key>
-	<true/>
+	<false/>
 	<key>IS_GCM_ENABLED</key>
 	<true/>
 	<key>IS_SIGNIN_ENABLED</key>
 	<true/>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:769170136897:ios:a7e09745fdc21119</string>
+	<string>1:346660109740:ios:955171adfed271aa</string>
 	<key>DATABASE_URL</key>
-	<string>https://comex-conexion-movil.firebaseio.com</string>
+	<string>https://lasus-2016.firebaseio.com</string>
 </dict>
 </plist>
