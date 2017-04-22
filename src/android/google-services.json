@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "896412001240",
+    "firebase_url": "https://banamex-escuderia.firebaseio.com",
+    "project_id": "banamex-escuderia",
+    "storage_bucket": "banamex-escuderia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896412001240:android:deacb6559aa488a8",
+        "android_client_info": {
+          "package_name": "mx.sourcecode.es2016"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896412001240-ur289n5jj6sqcbdts1duislshokbgr4r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjLozIi4ATTQ3JUw-IFCJWI7Ul6FnBg-0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
